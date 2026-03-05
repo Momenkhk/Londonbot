@@ -1,0 +1,17 @@
+{
+  "name": "londonbot-ticket-system-v2",
+  "version": "1.1.0",
+  "description": "Advanced Discord ticket system using component-driven UX (v2-style).",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node src/index.js",
+    "lint": "node --check src/index.js"
+  },
+  "engines": {
+    "node": ">=20.0.0"
+  },
+  "dependencies": {
+    "discord.js": "^14.20.0"
+  }
+}
