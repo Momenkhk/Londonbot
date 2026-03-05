@@ -1,0 +1,5 @@
+{
+  "token": "PUT_BOT_TOKEN_HERE",
+  "guildId": "PUT_GUILD_ID_OR_EMPTY",
+  "staffRoleId": "PUT_STAFF_ROLE_ID_OR_EMPTY"
+}
